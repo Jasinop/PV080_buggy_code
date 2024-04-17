@@ -25,5 +25,3 @@ int main(void) {
     print_plaintext(plaintext);
 
 }
-
-
